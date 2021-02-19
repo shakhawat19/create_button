@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+
+        android:id="@+id/tvDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="40sp" />
+
+    <Button
+    android:textColor="#fff"
+    android:background="#542"
+    android:id="@+id/btnPress"
+    android:text="1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+
+
+
+    <TextView
+
+        android:id="@+id/tvDisplay1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="40sp" />
+
+    <Button
+        android:textColor="#fff"
+        android:background="#542"
+        android:id="@+id/btnPress1"
+        android:text="2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+
+        android:id="@+id/tvDisplay2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="40sp" />
+
+    <Button
+        android:textColor="#fff"
+        android:background="#542"
+        android:id="@+id/btnPress2"
+        android:text="3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+
+        android:id="@+id/tvDisplay3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="40sp" />
+
+    <Button
+        android:textColor="#fff"
+        android:background="#2234"
+        android:id="@+id/btnPress3"
+        android:text="4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+
+        android:id="@+id/tvDisplay4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="40sp" />
+
+    <Button
+        android:textColor="#fff"
+        android:background="#6547"
+        android:id="@+id/btnPress4"
+        android:text="5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+    
+
+</LinearLayout>
